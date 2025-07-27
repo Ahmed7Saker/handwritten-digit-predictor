@@ -1,8 +1,9 @@
 <h1 align="center">🧠 Handwritten Digit Classifier</h1>
 
 <p align="center">
-  <img src="https://www.kaggle.com/competitions/3004/images/header" width="400"/>
+  <img src="https://github.com/user-attachments/assets/92448c7f-7d00-4f89-9a4e-b0302b671301" width="560" height="279" alt="Handwritten Digit Sample"/>
 </p>
+
 
 <p align="center">
   🔢 A machine learning model trained on the Kaggle Digit Recognizer dataset to classify handwritten digits (0–9).
